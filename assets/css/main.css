@@ -169,16 +169,17 @@ textarea {
 @-ms-viewport {
   width: device-width;
 }
-
+.movie-ul {
+  margin: 13px 0;
+}
 @media screen and (max-width: 480px) {
   html,
   body {
     min-width: 320px;
   }
-.movie-list{
-	display:none;}
+
 .movie-btn{
-	transform:translateY(-14px);
+	transform:translateY(-10px);
 }
 
 html {
