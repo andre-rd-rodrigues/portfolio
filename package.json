@@ -4,7 +4,7 @@
   "description": "portfolio",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,5 @@
   "bugs": {
     "url": "https://github.com/andre-rd-rodrigues/portfolio/issues"
   },
-  "homepage": "https://github.com/andre-rd-rodrigues/portfolio#readme"
+  "homepage": "https://andre-rd-rodrigues.github.io/portfolio"
 }
