@@ -1861,7 +1861,7 @@ h3::after {
 
 #about-dot {
   height: 360px;
-  width: 360px;
+  max-width: 360px;
   background: url("../../img/perfil.jpg") center bottom no-repeat fixed;
   background-size: contain;
   border-radius: 50%;
