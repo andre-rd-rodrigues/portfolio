@@ -1812,10 +1812,13 @@ body.is-preload #footer {
   padding: 0;
   cursor: pointer;
 }
+.mask a {
+  text-decoration: none;
+  border: none;
+}
 .mask h3 {
   position: relative;
-
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 h3::after {
   content: "";
