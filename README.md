@@ -1,5 +1,12 @@
 # Personal Portfolio
 
-Welcome! My name is André Rodrigues and I'm a Front-End Developer. As a junior developer, I methodically push myself further to learn more, being updated and close to the community. I have worked on a multitude of web and print-based projects providing Web Design, Mobile-First Approach, Development, and Graphic Design concepts. Here are some of my favourites projects, so I hope you enjoy them and all feedback is welcome :)
+Welcome! My name is André Rodrigues and I'm a
+Web Developer. Since turning my passion into a career, I’ve
+been continuously studying and working on challenging projects for
+almost 3 years. In order to guarantee
+innovation and high-quality work projects, I have
+worked on a multitude of web and mobile projects providing
+high quality user experience through Web Development, Web Design and Graphic
+Design concepts.
 
 Website: https://andre-rd-rodrigues.github.io/portfolio
